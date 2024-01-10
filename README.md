@@ -12,3 +12,10 @@ git clone https://github.com/helowd/lesser.git && cd lesser && sudo ./install.sh
 ```bash
 rm -f /usr/bin/le
 ```
+
+## usage
+le <command>
+
+### example
+le kubectl get --help  
+le cat nginx.log
