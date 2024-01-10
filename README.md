@@ -14,8 +14,12 @@ rm -f /usr/bin/le
 ```
 
 ## usage
+```bash
 le <command>
+```
 
 ### example
+```bash
 le kubectl get --help  
 le cat nginx.log
+```
